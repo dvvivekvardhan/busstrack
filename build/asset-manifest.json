@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dvvivekvardhan/busstrack.git/static/css/main.622a617e.css",
+    "main.js": "/dvvivekvardhan/busstrack.git/static/js/main.97ecab03.js",
+    "static/media/aboutbg.png": "/dvvivekvardhan/busstrack.git/static/media/aboutbg.99ef60556a94ae448bba.png",
+    "index.html": "/dvvivekvardhan/busstrack.git/index.html",
+    "main.622a617e.css.map": "/dvvivekvardhan/busstrack.git/static/css/main.622a617e.css.map",
+    "main.97ecab03.js.map": "/dvvivekvardhan/busstrack.git/static/js/main.97ecab03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.622a617e.css",
+    "static/js/main.97ecab03.js"
+  ]
+}
