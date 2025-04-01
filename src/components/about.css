@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.abouthedder{
+    height: 500px;
+    width: 100%;
+    background-image: url(aboutbg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.block1{
+    margin-top:-420px;
+    height: 350px;
+    width: 600px;
+    background-color: rgba(0, 0, 0, 0.566);
+    border-radius: 40px;
+}
