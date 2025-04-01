@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/busstrack/static/css/main.9d64f93a.css",
+    "main.js": "/busstrack/static/js/main.97ecab03.js",
+    "static/media/aboutbg.png": "/busstrack/static/media/aboutbg.99ef60556a94ae448bba.png",
+    "index.html": "/busstrack/index.html",
+    "main.9d64f93a.css.map": "/busstrack/static/css/main.9d64f93a.css.map",
+    "main.97ecab03.js.map": "/busstrack/static/js/main.97ecab03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d64f93a.css",
+    "static/js/main.97ecab03.js"
+  ]
+}
